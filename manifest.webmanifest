@@ -1,0 +1,16 @@
+{
+  "name": "Lumina Studio",
+  "short_name": "Lumina",
+  "description": "تعديل الصور والفيديوهات بالذكاء الاصطناعي",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F0F12",
+  "theme_color": "#0F0F12",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
